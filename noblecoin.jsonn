@@ -1,0 +1,15 @@
+{
+  "name": "Noblecoin",
+  "symbol": "LUCA",
+  "description": "The official Luca Noble token",
+  "image": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/noblecoin.png",
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "BwXDCmZ7SsJS8C3Ytdp5nznjygYJ2co1HmSnsXCdsdrq",
+        "share": 100
+      }
+    ]
+  }
+}
